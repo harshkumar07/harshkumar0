@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **harshku068@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- 👀 I’m interested in AI/ML
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
