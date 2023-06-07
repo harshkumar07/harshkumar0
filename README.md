@@ -1,4 +1,4 @@
-![logo](https://github.com/harshkumar07/harshkumar0/blob/main/github-header-image.png)
+![logo](https://github.com/harshkumar07/harshkumar07/commit/16b87e972c403d2a8fc15c27750a4c7dc3b615ef)
 <h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif">
