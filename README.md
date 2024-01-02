@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Framework and Node.Js**
 
-- 💬 Ask me about **C++, Java ,HTML, CSS, Javascript, Python, Data Structures & Algorithms, SQL, Verilog HDL**
+- 💬 Ask me about **C++, Java ,HTML, CSS, Javascript, Python, Data Structures & Algorithms, MongoDB,ExpressJS,SQL, Verilog HDL**
 
 - 📫 How to reach me **harshku068@gmail.com**
 
